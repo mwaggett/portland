@@ -161,6 +161,7 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * [Ground Kontrol](https://groundkontrol.com/): Classic arcade game bar
  * [Luc Lac](http://luclackitchen.com/): Popular Vietnamese restaurant and bar, can be very busy around peak times
  * Los Gorditos Burritos: Popular local Mexican restaurant
+ * [Floating World](https://floatingworldcomics.com): Comics, around the corner from Ground Kontrol
  * Verde Cocina: Fresh Mexican food, vegan friendly!
  * The Food Cart pod at SW 10th & Alder has some notable standouts
     - [The Whole Bowl](http://www.thewholebowl.com/): vegan friendly!
