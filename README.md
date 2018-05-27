@@ -152,8 +152,8 @@ Not breweries, but places to taste a wide variety of beer from near and far.
  * Bailey's Tap Room: All the beers
  * Lechon: All the meats
  * Brunchbox: All the cholesterol
- * [Santeria](http://thesanteria.com): allegedly "the Best Mexican Food on The Planet" (It'a really very good). Beware though, it shares a bathroom with Mary's (the stripclub next door).
-      Delivers to Bailey's
+ * [Santeria](http://thesanteria.com): allegedly "the Best Mexican Food on The Planet" (It *is* pretty good). Beware though, it shares a bathroom with Mary's (the stripclub next door).
+   - Delivers to Bailey's across the street!
  * Raven & Rose: good cocktails / food
  * Killer Burger (A local chain): Serviceable burgers
  * TILT: Great burgers
@@ -244,7 +244,6 @@ The Pacific Northwest has a contentious relationship with bagels: they're often 
 
 * [Henry Higgins Boiled Bagels](http://www.hhboiledbagels.com): the Everything Bagel has salt on it.
 * [Kornblatt's Deli](http://kornblattsdelipdx.com): they will run out of bagels by early afternoon, so get there early if you want to get them to go.
-* 
 
 # How do I &hellip;?
 
